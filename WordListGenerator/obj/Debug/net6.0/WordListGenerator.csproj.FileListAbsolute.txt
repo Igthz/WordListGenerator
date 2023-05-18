@@ -1,0 +1,15 @@
+C:\Users\Administrator\source\repos\WordListGenerator\WordListGenerator\bin\Debug\net6.0\WordListGenerator.exe
+C:\Users\Administrator\source\repos\WordListGenerator\WordListGenerator\bin\Debug\net6.0\WordListGenerator.deps.json
+C:\Users\Administrator\source\repos\WordListGenerator\WordListGenerator\bin\Debug\net6.0\WordListGenerator.runtimeconfig.json
+C:\Users\Administrator\source\repos\WordListGenerator\WordListGenerator\bin\Debug\net6.0\WordListGenerator.dll
+C:\Users\Administrator\source\repos\WordListGenerator\WordListGenerator\bin\Debug\net6.0\WordListGenerator.pdb
+C:\Users\Administrator\source\repos\WordListGenerator\WordListGenerator\obj\Debug\net6.0\WordListGenerator.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\WordListGenerator\WordListGenerator\obj\Debug\net6.0\WordListGenerator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\WordListGenerator\WordListGenerator\obj\Debug\net6.0\WordListGenerator.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\WordListGenerator\WordListGenerator\obj\Debug\net6.0\WordListGenerator.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\WordListGenerator\WordListGenerator\obj\Debug\net6.0\WordListGenerator.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\WordListGenerator\WordListGenerator\obj\Debug\net6.0\WordListGenerator.dll
+C:\Users\Administrator\source\repos\WordListGenerator\WordListGenerator\obj\Debug\net6.0\refint\WordListGenerator.dll
+C:\Users\Administrator\source\repos\WordListGenerator\WordListGenerator\obj\Debug\net6.0\WordListGenerator.pdb
+C:\Users\Administrator\source\repos\WordListGenerator\WordListGenerator\obj\Debug\net6.0\WordListGenerator.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\WordListGenerator\WordListGenerator\obj\Debug\net6.0\ref\WordListGenerator.dll
