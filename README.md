@@ -1,6 +1,6 @@
-# WList Generator
+# WordList Generator
 
-O WList Generator é um aplicativo simples em C# que gera wordlists a partir de palavras fornecidas pelo usuário. Essas wordlists podem ser úteis em tarefas de teste de penetração (pentest) ou em outros cenários que exijam a geração de listas de palavras.
+O WordList Generator é um aplicativo simples em C# que gera wordlists a partir de palavras fornecidas pelo usuário. Essas wordlists podem ser úteis em tarefas de teste de penetração (pentest) ou em outros cenários que exijam a geração de listas de palavras.
 
 ## Preview
 
